@@ -1,5 +1,6 @@
 # Adins Utility Menu
 A simple utility menu meant for school computers
+10 stars i release src
 # The Menu Includes:
 
 𝑺𝒉𝒖𝒕𝒅𝒐𝒘𝒏 𝑴𝒆𝒏𝒖
